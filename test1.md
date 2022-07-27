@@ -1,2 +1,0 @@
-Operation	Number of nodes	Concurrency	Is Large	Time of execution with prod code	number of erred out	Time of execution with new code	Number of erred out
-Insert | 1000 | 10 | No | 2 mins 51 sec | 264 | 3 mins 13 sec | 264 Update | 1000 | 10 | No | 1 min 20 sec | 264 | 2 min 37 sec | 264 Insert | 10000 | 100 | No | 13min 14 sec| 4081 | | Update | 10000 | 100 | No | | | | Insert | 10000 | 100 | Yes | | | | Update | 10000 | 100 | Yes | | | |
